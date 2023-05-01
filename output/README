@@ -1,0 +1,3 @@
+This folder contains the output of the 8x8 multiplier.
+All possible combination of multiplication is stored, that is all 256 numbers (all * bit number) are multiplied by each other 8 bit number.
+This is done, so that later this file can be used directly to get answer instead of performing multiplication simulation to get values.
